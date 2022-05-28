@@ -1,0 +1,12 @@
+Regras JS
+
+Valor por página : 10,00
+
+Script: 10% do custo das páginas
+
+Layout: 500,00
+
+Taxa de urgência:  10% do custo total por semana de urgência
+
+
+
